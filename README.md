@@ -9,16 +9,17 @@ This project focuses on frontend engineering concepts such as component-based de
 
 ---
 
-## 🚀 Workflow Builder Dashboard
+# Workflow Builder
 
-The Workflow Builder Dashboard enables users to build workflows by adding different node types such as actions, conditions, and endpoints. Each workflow represents a structured decision flow, allowing users to visualize both sequential and conditional logic effectively.
+React-based workflow builder application.
 
-This project was developed to demonstrate:
+## Tech Stack
+- React
+- JavaScript
+- CSS
 
-* Frontend architecture and component design
-* State and data flow management
-* UI/UX decision-making
-* Interactive visual logic building
+## Deployment
+Hosted on Vercel
 
 ---
 
